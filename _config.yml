@@ -129,8 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-twitter_username         : "junteng88716710"
+  username               : "junteng88716710"
 facebook:
   username               :
   app_id                 :
